@@ -1,3 +1,2 @@
 # Werable
-taking care of plants
-gamification of the hole thing
+taking care of plants and create a wearable device for the plant
